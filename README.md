@@ -1,7 +1,7 @@
 # InternetData-Analysis-Python-SQL-visualizations
 Internet Data - Analysis (Python-SQL)- visualizations
 
-- In this Repo want to answer some Questions : 
+- In this Repo wanted to answer some Questions : 
   1. What are the top 5 countries with the highest internet use (by population share)?
   2. How many people had internet access in those countries in 2019?
   3. What are the top 5 countries with the highest internet use for each of the following regions:  'Middle East & North Africa', 'Latin America & Caribbean', 'East Asia & Pacific', 'South Asia', 'North America', 'Europe & Central Asia'?
